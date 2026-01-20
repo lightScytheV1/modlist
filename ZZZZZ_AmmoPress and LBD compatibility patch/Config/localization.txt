@@ -1,0 +1,2 @@
+Key,English
+perkGunsmithCraftingRank2LongDesc, "Craft level 3 firearms and the Ammo Press."

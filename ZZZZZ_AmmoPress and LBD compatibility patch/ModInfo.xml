@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="ZZZZZ_AmmoPress_and_LBD_compatibility_patch" />
+	<DisplayName value="AmmoPress and LBD compatibility patch" />
+    <Description value="A modlet to make Oakraven AmmoPress compatible with IzP's LBD mod" />
+    <Author value="Sphinx919" />
+    <Version value="1.0.0" />
+</xml>

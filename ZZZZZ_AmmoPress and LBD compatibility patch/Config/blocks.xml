@@ -1,0 +1,5 @@
+<configs>
+
+<setattribute xpath ="blocks/block[@name='ammopress']/property[@name='UnlockedBy']" name="value">perkGunsmithCrafting</setattribute>
+
+</configs>
